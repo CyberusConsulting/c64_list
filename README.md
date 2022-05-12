@@ -28,6 +28,8 @@ In the terminal settings:<br>
 - Set window size width to 40 and height to 50 (or 25 if you want a more c64-ish experience)<br>
 - Set screen background to the 2nd color (dark blue)<br>
 - Set screen text to the 4th color (lighter blue)<br>
+- Set cursor shape to Solid Box<br>
+- Make sure the cursor color matches your foreground color<br>
 
 - Optionally, you can also run the supplied batch file "c64.bat" (You need to edit the drive and path in the file) to get a c64 startup screen<br>
 
