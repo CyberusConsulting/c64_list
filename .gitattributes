@@ -1,0 +1,63 @@
+
+# ---------------------------
+# Default text to windows linebreaks, switch to lf for unix/linux
+# ---------------------------
+* text eol=crlf
+
+# ---------------------------
+# Windows files keep Windows linebreaks
+# ---------------------------
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.vcxproj.* text eol=crlf
+
+# ---------------------------
+# Binary files, no change
+# ---------------------------
+*.7z binary
+*.a binary
+*.afp binary
+*.dat binary
+*.dll binary
+*.doc binary
+*.bin binary
+*.eps binary
+*.exe binary
+*.flv binary
+*.fla binary
+*.gz binary
+*.gif binary
+*.ico binary
+*.idx binary
+*.idb binary
+*.ifp binary
+*.ifg binary
+*.ipch binary
+*.jpg binary
+*.jpeg binary
+*.lid binary
+*.lib binary
+*.mtl binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.mhf binary
+*.npy binary
+*.npz binary
+*.o binary
+*.obj binary
+*.out binary
+*.pk binary
+*.pch binary
+*.pdb binary
+*.pdf binary
+*.png binary
+*.prj binary
+*.rfp binary
+*.so binary
+*.swf binary
+*.ttf binary
+*.wav binary
+*.xls binary
+*.xlsx binary
+*.zip binary

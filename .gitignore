@@ -1,0 +1,84 @@
+
+# ---------------------------
+# App Specific
+# ---------------------------
+
+# bin/*
+# !bin/00_dummy.txt
+
+build/win/*
+!build/win/00_dummy.txt
+
+# ---------------------------
+# General Folders
+# ---------------------------
+.idea/*
+.elasticbeanstalk/
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.vs/*
+.vscode/*
+.backup/*
+.webassets-cache
+docs/_build/*
+instance/*
+target/*
+temp/*
+xcuserdata
+xcuserstate
+xcbkptlist
+xcscheme
+
+# ---------------------------
+# General Files, comment out as needed
+# ---------------------------
+# *.bat
+*.bin
+*.csv
+*.class
+*.db
+*.dll
+.DS_Store
+*.dylib
+# *.exe
+*.idb
+*.iml
+*.idx
+*.ini
+*.ipch
+*.jar
+*.lid
+*.log
+*.mhf
+*.mp3
+*.mp4
+*.MF
+*.o
+*.obj
+*.opensdf
+*.opendb
+*.pch
+*.pk
+*.pdb
+# *.png
+*.prj
+*.psd
+*.pyc
+*.pui
+*.rfp
+*.so
+*.suo
+*.sdf
+*.scrapy
+*.tsv
+*.tlog
+*.wav
+*.xccheckout
+*.xcodeproj
+*.xcworkspace
+*.xccheckout
+*.xcuserstate
+*.xcbkptlist
+*.xcscheme
+*.xcworkspacedata
